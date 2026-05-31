@@ -1,1 +1,1 @@
-I welcome contributions to my ongoing open-source projects, please email me!
+I welcome contributions to my ongoing open-source projects!
